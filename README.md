@@ -1,3 +1,7 @@
+
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFWD9Y5GJZhkg/profile-displaybackgroundimage-shrink_350_1400/B4DaAV_6rjHgAU-/0/1787075472530?e=1788393600&v=beta&t=qjEZtSPq3bONdQl6dHurbxBvDMGYibeqAW-6qTGMSKs)
+
+
 <h1 align="center">Hi 👋, I'm Vusal Suleymanov</h1>
 <h3 align="center">Building startups, mentoring future developers, and hunting bugs full-time.</h3>
 
